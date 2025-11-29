@@ -2,188 +2,97 @@
 Electrical Engineering Portfolio
 # Vaishnavi Girish – Electrical Engineering Portfolio
 
-Welcome! I am an Electrical Engineering student at NYU Tandon School of Engineering with interests in embedded systems, circuits, digital manufacturing cybersecurity, AI/ML for engineering, and cloud data workflows. This site highlights my technical projects, internships, and leadership experiences.
+I am an Electrical Engineering student at New York University, with a minor in Finance (Aug 2024 – Expected May 2028), and dedicated to building secure, intelligent, and high-performance systems. My work bridges embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—experience gained through research, technical teaching, and engineering internships.
+
+I develop solutions that operate at the intersection of hardware, software, and data: assistive devices powered by microcontrollers, AI-driven defect detection pipelines that strengthen energy infrastructure, and encrypted CAD workflows that protect the integrity of additive manufacturing. My finance background strengthens my ability to evaluate engineering decisions through the lens of scalability, risk, and long-term systems impact.
+
+Across every project, I focus on engineering systems that are precise, reliable, and robust under real-world conditions. Driven by curiosity, technical depth, and a commitment to impactful problem-solving, I thrive in environments where innovation and engineering discipline come together to advance the technologies shaping our future.
 
 ---
 
 ## 🔧 Technical Skills
 
-- **Embedded Systems:** Arduino, microcontrollers, C/C++, sensors, PWM
-- **Circuits & Electronics:** Circuit analysis, RC/RL/RLC, Thevenin/Norton, lab instrumentation
-- **Programming & Tools:** Python, MATLAB, Power BI, CAD and 3D printing
-- **Data & Cloud:** Snowflake, Azure Synapse, Google BigQuery (comparative analysis)
-- **Domains:** Cybersecurity for digital manufacturing, Industry 4.0, machine learning for engineering
+- **Embedded Systems:** Arduino, microcontrollers, C/C++, sensors, PWM control  
+- **Circuits & Electronics:** Circuit analysis, transient response, RC/RL/RLC systems, instrumentation  
+- **Machine Learning & Data:** Python, NumPy, SciPy, scikit-learn, computer vision preprocessing  
+- **Cybersecurity & Manufacturing:** Encryption, watermarking, anomaly detection, additive manufacturing integrity  
+- **Cloud & Data Platforms:** Snowflake, Azure Synapse, Google BigQuery  
+- **Prototyping & Fabrication:** Soldering, CAD modeling, 3D printing, rapid prototyping  
+- **Tools & Software:** MATLAB, Power BI, Git/GitHub, oscilloscopes, multimeters
 
 ---
 
-## 🔥 Highlighted Projects
+## 🚀 Highlighted Projects
 
-### Engineering Undergraduate Teaching Assistant – NYU Tandon School of Engineering  
+### Engineering Undergraduate Teaching Assistant – New York University  
 *Aug 2025 – Present | Brooklyn, NY*  
-As an Engineering Undergraduate TA in the Rapid Assembly and Design (RAD) environment, I play a key role in supporting the training and technical growth of first-year engineering students. My work combines instructional guidance, hands-on prototyping support, and engineering problem-solving across hardware and software domains.
-
-I mentor students in foundational engineering practices including: CAD modeling, 3D printing, soldering, breadboarding, Arduino programming, circuitry, and rapid prototyping. I support them through the entire design cycle—from conceptualization and feasibility to hardware integration and testing. I also help maintain and troubleshoot prototyping equipment including soldering stations, 3D printers, microcontroller kits, and electronics benches, ensuring reliable lab operations.
-
-My work includes:  
-- Teaching students how to design, fabricate, and test early-stage prototypes using CAD and 3D printing workflows.  
-- Guiding debugging of embedded systems, including faulty wiring, sensor errors, voltage mismatches, thermal issues, and code logic failures.  
-- Delivering lab sessions alongside faculty to introduce engineering fundamentals through hands-on tasks.  
-- Preparing students for more advanced courses by building strong technical and problem-solving foundations.
+As an Engineering Undergraduate TA in the Rapid Assembly and Design (RAD) environment, I mentor first-year students through core engineering principles while supporting hands-on prototyping and hardware development. I guide students in CAD modeling, 3D printing, soldering, Arduino programming, electronics assembly, and debugging embedded systems. I collaborate with faculty to deliver lab sessions, maintain prototyping tools, and ensure safety across engineering workstations. Through this role, I help students build strong technical foundations for advanced coursework and project development.
 
 ---
 
 ### AI-Based Fusion Joint Defect Detection – Mears Group LLC  
 *Software Engineering Intern | June 2025 – Aug 2025 | Houston, TX*  
-I worked on a computer vision–based AI pipeline used to detect structural defects and leaks in natural gas pipeline fusion joints. This work contributes to improving public safety and infrastructure reliability in the energy sector.
-
-I designed Python preprocessing and postprocessing workflows that standardized and improved the dataset used for classification. This included image normalization, bounding-box alignment, shape filtering, contrast correction, noise reduction, and geometric consistency checks to ensure the model received high-quality inputs. I also built post-inference utilities for smoothing predictions, filtering outliers, and visualizing defect regions.
-
-The system achieved **82% accuracy** during pilot testing after incorporating these enhancements.
-
-Key contributions include:  
-- Automated dataset preparation through Python scripts that improved reliability and reduced manual labor.  
-- Improved model performance by refining image preprocessing pipelines and artifact reduction steps.  
-- Built visualization tools that enabled engineers to inspect prediction confidence and misclassified cases.  
-- Worked with engineers to prepare the model for operational deployment in field inspections.
+I contributed to a computer vision pipeline that detects structural defects and leaks in natural gas pipeline fusion joints. I developed Python-based preprocessing and postprocessing workflows that improved signal consistency and reduced noise, enabling an AI model to achieve **82% accuracy** during pilot testing. I built automation tools for dataset cleaning, visualization, and quality assurance—streamlining the model’s readiness for field deployment and supporting pipeline integrity and safety.
 
 ---
 
-### Digital Manufacturing Cybersecurity – Hack3D VIP (NYU)  
+### Digital Manufacturing Cybersecurity – Hack3D VIP (New York University)  
 *Jan 2025 – Present | Brooklyn, NY*  
-As part of the Hack3D Digital Manufacturing Cybersecurity VIP team, I investigate how to secure additive manufacturing pipelines against cyber-physical attacks. Cyberattacks on 3D printers can change internal geometries, weaken structures, or leak proprietary designs, making this a critical research area for both industry and national security.
-
-I develop methods to detect, prevent, and analyze tampering in CAD and STL files using a multi-layered approach that combines cryptographic reinforcement, machine learning, file-level anomaly detection, and physics-based simulation.
-
-My work includes:  
-- Securing CAD and STL files using encryption, digital watermarking, steganography, and signature-based verification.  
-- Training ML models that detect malicious geometry edits, irregular mesh features, or compromised slicer outputs.  
-- Using FEM (Finite Element Modeling) simulations to evaluate how subtle geometry changes influence stress distribution and structural failure.  
-- Employing MicroCT scanning and internal imaging to identify deviations between intended and printed parts in cyberattack scenarios.  
-- Evaluating risks associated with file interception, printer firmware manipulation, and digital twin exploitation.
-
-This project strengthens the security and trustworthiness of future digital manufacturing systems.
+My research focuses on securing additive manufacturing systems against cyber-physical attacks. I develop protection methods for CAD/STL files using encryption, watermarking, and steganography, along with ML-based anomaly detection models to identify tampered geometries. I use FEM simulations and MicroCT imaging to analyze structural deviations caused by malicious modifications. This work strengthens the reliability and security of digital manufacturing pipelines used in aerospace, defense, and medical industries.
 
 ---
 
-### Science & Technology Writer – Washington Square News  
+### Science & Technology Writing – Washington Square News  
 *Jan 2025 – Present | NYU Global Network*  
-As a staff writer for Washington Square News, I communicate engineering concepts and emerging technologies to a diverse global audience. My work transforms complex scientific topics into high-clarity stories accessible to readers across fields.
-
-I report on advancements in AI, nanotechnology, cybersecurity, renewable energy, global innovation policy, and university research.
-
-Key highlights:  
-- Conduct in-depth research on rapidly developing technologies, engineering trends, and global implications.  
-- Interview researchers, industry experts, and NYU faculty to craft accurate and compelling articles.  
-- Publish stories read by thousands across NYU’s New York, Abu Dhabi, Shanghai, and global campuses.  
-- Portfolio: https://nyunews.com/?s=vaishnavi+girish
-
-This experience strengthens my ability to analyze technical systems, interpret research, and communicate engineering insights clearly—skills essential in modern engineering roles.
+As a Staff Writer, I create research-driven articles covering emerging technologies, artificial intelligence, global innovation policy, and engineering breakthroughs. I translate complex technical ideas into accessible journalism read across NYU’s global campuses. My work emphasizes scientific clarity, contextual accuracy, and global technological impact.  
+Portfolio: https://nyunews.com/?s=vaishnavi+girish
 
 ---
 
 ### EchoLink – Assistive Communication Device for Non-Verbal Patients  
-*Jan 2025 – May 2025 | NYU Tandon*  
-EchoLink is a Bluetooth-enabled assistive communication device designed for non-verbal patients who need a low-cost, portable method to express basic needs. It uses tactile input and an LCD interface to send pre-programmed messages to a caregiver’s device.
-
-I engineered the entire system architecture, including embedded logic, circuit design, board-level wiring, and hardware prototyping.
-
-The device integrates:  
-- **Arduino microcontroller** for control logic  
-- **Bluetooth (BLE) module** for wireless communication  
-- **LCD display** for message selection  
-- **Tactile buttons** for user input  
-- **Custom-soldered circuitry** for power distribution and signal integrity  
-
-I developed the C-based embedded program that cycles through message menus, transmits user selections over BLE, and handles UI logic. I designed and soldered the circuit, debugging issues related to debounce timing, voltage drop, and serial interference. I also modeled an ergonomic enclosure using CAD tools to improve usability.
-
-EchoLink demonstrates how embedded systems can support accessible healthcare technologies.
+*Jan 2025 – May 2025 | New York University*  
+EchoLink is a Bluetooth-enabled embedded system designed for non-verbal patients to communicate via a tactile interface. I engineered the microcontroller logic, LCD interface, and BLE communication using Arduino and C. I designed and soldered custom circuitry integrating sensors, pushbuttons, a display, and the BLE module. I also developed CAD-modeled enclosure components to support ergonomic use. EchoLink demonstrates how embedded hardware can improve accessibility and patient–caregiver communication through low-cost engineering.
 
 ---
 
 ### Cloud Data Platform Analysis – Mears Group LLC  
 *Software Engineering Intern | June 2023 | Houston, TX*  
-I conducted a strategic analysis for selecting the optimal cloud data platform for pipeline analytics and GIS workflows. I evaluated **Snowflake**, **Azure Synapse**, and **Google BigQuery**, analyzing factors such as ingest speed, compute scaling, cost efficiency, integration with existing systems, and cross-platform interoperability.
-
-Using business and engineering frameworks—SWOT, Porter’s Five Forces, Value Chain, and the BCG Matrix—I assessed how platform architecture aligned with operational needs, long-term scalability, and competitive positioning.
-
-Key contributions:  
-- Performed cost-performance benchmarking across three major cloud platforms.  
-- Analyzed security models, data governance, and workflow compatibility.  
-- Delivered recommendations that shaped internal cloud modernization decisions.  
-- Translated engineering infrastructure needs into strategic insights.
+I evaluated Snowflake, Azure Synapse, and Google BigQuery for suitability in data-intensive pipeline integrity workflows. Using frameworks such as SWOT, Porter’s Five Forces, Value Chain, and the BCG Matrix, I analyzed performance, security, scalability, and long-term suitability. My recommendations supported cloud migration strategies and data modernization initiatives within the organization.
 
 ---
 
-### Manufacturing Execution Systems (MES) Research – Athena Technologies  
+### Manufacturing Execution Systems Research – Athena Technologies  
 *Engineering Research Intern | Mar 2023 – Jun 2023 | Fremont, CA*  
-I evaluated MES solutions used by medical device manufacturers to determine digital readiness, Industry 4.0 alignment, and process integration capabilities.
-
-By analyzing vendor architectures and real-world manufacturing workflows, I assessed MES functions including:  
-- Traceability and lot tracking  
-- Quality control and error reporting  
-- Workflow automation and scheduling  
-- Interoperability with ERP and PLC systems  
-- Cybersecurity robustness and data handling  
-
-I delivered strategic insights that helped clients identify MES solutions capable of improving production efficiency, regulatory compliance, and digital transformation efforts.
+I analyzed MES platforms for medical device manufacturing clients to assess Industry 4.0 alignment, workflow automation capabilities, compliance features, and system robustness. I evaluated interoperability with ERP/PLC systems and proposed solutions for digital transformation, process optimization, and quality control in regulated manufacturing environments.
 
 ---
-
-### Cybersecurity & Risk Awareness – Girls Talk Tech, ConocoPhillips  
-*June 2023 | Houston, TX*  
-Participated in a professional engineering and cybersecurity immersion program focused on large-scale energy infrastructure.
-
-Experience included:  
-- Exposure to cybersecurity tools used in industrial control systems.  
-- Training in risk assessment, vulnerability identification, and threat modeling.  
-- Understanding business continuity and data protection strategies for critical infrastructure.  
-- Hands-on data visualization activities to interpret complex engineering data.
-
-This experience strengthened my awareness of cybersecurity considerations central to energy, utilities, and industrial engineering.
 
 ## 🏅 Leadership & Outreach
 
 ### Girl Scout Gold Award Recipient & Highest Award Specialist  
-As an 11-year Girl Scout, I earned the Gold Award, the highest honor in Girl Scouting, by leading a sustainable STEM education initiative for under-resourced students at a Title 1 elementary school. I created hands-on STEM curriculum, built and donated customized STEM kits, and established the “Eureka Science Lab,” a permanent classroom resource designed to promote interactive, project-based engineering learning. The lab and donated equipment continue to serve students beyond my involvement, supporting long-term access to STEM opportunities.
+As an 11-year Girl Scout, I earned the Gold Award by designing a sustainable STEM education initiative for under-resourced students at a Title 1 elementary school. I created hands-on STEM curriculum, built and donated customized STEM kits, and established the “Eureka Science Lab,” a permanent resource supporting project-based engineering learning.  
 
-I now serve as a Highest Award Specialist for the Girl Scouts of San Jacinto Council, where I mentor younger Scouts pursuing their Bronze, Silver, and Gold Awards. In this leadership role, I guide students through project ideation, feasibility assessment, community partnership development, and sustainable implementation strategies. I also speak at workshops and events, helping young girls build confidence, leadership skills, and a foundation for community-centered problem solving.
+I now serve as a Highest Award Specialist for the Girl Scouts of San Jacinto Council, mentoring Bronze, Silver, and Gold Award candidates through project ideation, feasibility planning, and sustainable implementation. I speak at workshops and events to help young girls develop leadership skills, confidence, and community-centered problem-solving abilities.
 
 ---
 
 ### STEMReach Global – Founder  
-I founded STEMReach Global, a nonprofit initiative dedicated to expanding STEM education access for children in vulnerable and under-resourced communities. Through this program, I designed and led virtual STEM workshops, created project-based learning modules, and partnered with the Bless Society of Rural and Urban Development in Bangalore, India.
-
-I assembled and donated more than 20 STEM kits containing sensors, circuit materials, building components, and early engineering tools. These materials supported students in exploring core STEM concepts through guided, hands-on activities. STEMReach continues to serve as a platform for empowering students with curiosity-driven learning and early exposure to engineering thinking.
-
----
-
-### Science & Technology Writer – Washington Square News  
-As a Staff Writer for Washington Square News, I communicate complex engineering topics and emerging technologies to a broad global audience across NYU’s New York, Abu Dhabi, and Shanghai campuses. My work blends research, journalism, and technical analysis to make cutting-edge scientific developments accessible to readers of diverse backgrounds.
-
-I report on innovations in AI, cybersecurity, global technology policy, and breakthroughs from NYU’s research community. My articles emphasize clarity, accuracy, and contextual depth, helping readers understand both the technical foundations and the societal impact of modern engineering advancements.  
-Portfolio: https://nyunews.com/?s=vaishnavi+girish
+I founded STEMReach Global to expand STEM access for students in vulnerable communities. I designed and led virtual STEM workshops, partnered with the Bless Society of Rural and Urban Development in Bangalore, and assembled and donated 20+ STEM kits to support project-based engineering education. This initiative promotes early exposure to engineering problem-solving and hands-on learning.
 
 ---
 
 ### Varsity Athlete – Jordan High School Swim Team  
-As a four-year varsity athlete and district qualifier, I competed in the 5A Texas Interscholastic Swimming (TISCA) Championships and represented both my high school and club team, Fulshear Racing Swim Team (FRST). Swimming taught me discipline, resilience, and consistency—traits that translate directly into my academic and engineering work.
-
-I balanced rigorous training schedules with demanding STEM coursework, developing time management and perseverance that continue to support my success in research, engineering design, and long-term project execution.
-
+As a four-year varsity swimmer and district qualifier, I competed at the 5A Texas Interscholastic Swimming (TISCA) Championships and with the FRST club team. Swimming instilled discipline, resilience, and time management—traits that continue to support my academic performance and engineering work.
 
 ---
 
 ## 📄 Resume
 
-You can view my resume here:
-
 👉 [Download my resume](resume/Vaishnavi_Girish_Resume.pdf)
-
-*(We will upload this file in the next step.)*
 
 ---
 
 ## 📬 Contact
 
 - **Email:** vaishnavi.girish@nyu.edu  
-- **LinkedIn:** [linkedin.com/in/vaishnavi-girish](https://www.linkedin.com/in/vaishnavi-girish)
+- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish  
