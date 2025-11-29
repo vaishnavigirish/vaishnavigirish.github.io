@@ -2,7 +2,7 @@
   <img src="assets/images/VG.png" width="120" alt="VG Engineering Logo">
 </p>
 
-<p align="center"><em>New York University • Major: Electrical Engineering • Finance Minor</em></p>
+<p align="center"><em>New York University • Major: Electrical Engineering • Minor: Finance </em></p>
 
 <a id="about"></a>
 
