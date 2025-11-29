@@ -143,10 +143,33 @@ This experience strengthened my awareness of cybersecurity considerations centra
 
 ## 🏅 Leadership & Outreach
 
-- **Girl Scout Gold Award Recipient:** Established a STEM focused Eureka Club and lab for under resourced students at a Title 1 elementary school, creating lasting infrastructure and donating hands on STEM kits.
-- **Highest Award Specialist:** Mentor younger Girl Scouts through Bronze, Silver, and Gold Awards.
-- **STEMReach Global Founder:** Organized workshops and created STEM kits for students in vulnerable communities.
-- **Varsity Swimmer & Science Writer:** Competed at district and TISCA meets and write science and innovation pieces for Washington Square News.
+### Girl Scout Gold Award Recipient & Highest Award Specialist  
+As an 11-year Girl Scout, I earned the Gold Award, the highest honor in Girl Scouting, by leading a sustainable STEM education initiative for under-resourced students at a Title 1 elementary school. I created hands-on STEM curriculum, built and donated customized STEM kits, and established the “Eureka Science Lab,” a permanent classroom resource designed to promote interactive, project-based engineering learning. The lab and donated equipment continue to serve students beyond my involvement, supporting long-term access to STEM opportunities.
+
+I now serve as a Highest Award Specialist for the Girl Scouts of San Jacinto Council, where I mentor younger Scouts pursuing their Bronze, Silver, and Gold Awards. In this leadership role, I guide students through project ideation, feasibility assessment, community partnership development, and sustainable implementation strategies. I also speak at workshops and events, helping young girls build confidence, leadership skills, and a foundation for community-centered problem solving.
+
+---
+
+### STEMReach Global – Founder  
+I founded STEMReach Global, a nonprofit initiative dedicated to expanding STEM education access for children in vulnerable and under-resourced communities. Through this program, I designed and led virtual STEM workshops, created project-based learning modules, and partnered with the Bless Society of Rural and Urban Development in Bangalore, India.
+
+I assembled and donated more than 20 STEM kits containing sensors, circuit materials, building components, and early engineering tools. These materials supported students in exploring core STEM concepts through guided, hands-on activities. STEMReach continues to serve as a platform for empowering students with curiosity-driven learning and early exposure to engineering thinking.
+
+---
+
+### Science & Technology Writer – Washington Square News  
+As a Staff Writer for Washington Square News, I communicate complex engineering topics and emerging technologies to a broad global audience across NYU’s New York, Abu Dhabi, and Shanghai campuses. My work blends research, journalism, and technical analysis to make cutting-edge scientific developments accessible to readers of diverse backgrounds.
+
+I report on innovations in AI, cybersecurity, global technology policy, and breakthroughs from NYU’s research community. My articles emphasize clarity, accuracy, and contextual depth, helping readers understand both the technical foundations and the societal impact of modern engineering advancements.  
+Portfolio: https://nyunews.com/?s=vaishnavi+girish
+
+---
+
+### Varsity Athlete – Jordan High School Swim Team  
+As a four-year varsity athlete and district qualifier, I competed in the 5A Texas Interscholastic Swimming (TISCA) Championships and represented both my high school and club team, Fulshear Racing Swim Team (FRST). Swimming taught me discipline, resilience, and consistency—traits that translate directly into my academic and engineering work.
+
+I balanced rigorous training schedules with demanding STEM coursework, developing time management and perseverance that continue to support my success in research, engineering design, and long-term project execution.
+
 
 ---
 
