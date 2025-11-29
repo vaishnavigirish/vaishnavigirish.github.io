@@ -2,6 +2,8 @@
   <img src="assets/images/VG.png" width="120" alt="VG Engineering Logo">
 </p>
 
+<p align="center"><em>New York University • Major: Electrical Engineering • Minor: Finance</em></p>
+
 <a id="about"></a>
 
 Vaishnavi Girish is an Electrical Engineering student at New York University (Aug 2024 – Expected May 2028), dedicated to developing secure, intelligent, and high-performance systems. Her work spans embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—built through research, technical teaching, and engineering internships.
@@ -10,10 +12,12 @@ Her engineering efforts focus on solutions at the intersection of hardware, soft
 
 Across all projects, Vaishnavi emphasizes precision, reliability, and real-world robustness. Her work reflects curiosity, technical depth, and a strong commitment to impactful problem-solving within environments that value innovation and engineering discipline.
 
+<p align="center"><em>Engineered to build secure, intelligent, and reliable systems at the intersection of hardware, software, and data.</em></p>
+
 ---
 
 **Quick Navigation**  
-[About](#about) · [Skills](#skills) · [Coursework](#coursework) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
+[About](#about) · [Skills](#skills) · [Skills Matrix](#skills-matrix) · [Coursework](#coursework) · [Project Overview](#project-overview) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
 
 ---
 
@@ -21,13 +25,27 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ## 🔧 Technical Skills
 
-- **Embedded Systems:** Arduino, microcontrollers, sensors, PWM control  
-- **Circuits & Electronics:** Circuit analysis, transient response, RC/RL/RLC systems, instrumentation  
-- **Machine Learning & Data:** Python, scikit-learn, basic computer vision preprocessing  
-- **Cybersecurity & Manufacturing:** Encryption, watermarking, anomaly detection, additive manufacturing integrity  
-- **Cloud & Data Platforms:** Snowflake, Azure Synapse, Google BigQuery  
-- **Prototyping & Fabrication:** Soldering, CAD modeling, 3D printing, rapid prototyping  
-- **Tools & Software:** MATLAB, Power BI, Git/GitHub, oscilloscopes, multimeters
+- Embedded Systems: Arduino, microcontrollers, sensors, PWM control  
+- Circuits & Electronics: circuit analysis, transient response, RC/RL/RLC systems, instrumentation  
+- Machine Learning & Data: Python, scikit-learn, basic computer vision preprocessing  
+- Cybersecurity & Manufacturing: encryption, watermarking, anomaly detection, additive manufacturing integrity  
+- Cloud & Data Platforms: Snowflake, Azure Synapse, Google BigQuery  
+- Prototyping & Fabrication: soldering, CAD modeling, 3D printing, rapid prototyping  
+- Tools & Software: MATLAB, Power BI, Git/GitHub, oscilloscopes, multimeters
+
+---
+
+<a id="skills-matrix"></a>
+
+## 🔬 Skills Matrix
+
+| *category*                 | *skills*                                                                  |
+|----------------------------|---------------------------------------------------------------------------|
+| embedded systems           | Arduino, BLE, sensors, PWM control, microcontroller integration           |
+| hardware & instrumentation | circuit design, breadboarding, soldering, oscilloscopes, multimeters      |
+| software & data            | Python, scikit-learn, Power BI, Git/GitHub                                |
+| manufacturing & design     | CAD modeling, 3D printing workflows, additive manufacturing integrity      |
+| security & analytics       | encryption, watermarking, anomaly detection, FEM/MicroCT-based analysis   |
 
 ---
 
@@ -35,10 +53,25 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ## 📘 Coursework
 
-- **Electrical Engineering Foundations:** Circuits and Systems, Electromagnetic Fields, Digital Logic  
-- **Design & Prototyping:** Engineering Design & Graphics, CAD Modeling, 3D Printing Workflows, Arduino Systems  
-- **Programming & Computational Tools:** Python Programming, MATLAB Applications  
-- **Mathematics for Engineering:** Differential Equations, Linear Algebra, Multivariable Calculus
+- Electrical Engineering Foundations: Circuits and Systems, Electromagnetic Fields, Digital Logic  
+- Design & Prototyping: Engineering Design & Graphics, CAD Modeling, 3D Printing Workflows, Arduino Systems  
+- Programming & Computational Tools: Python Programming, MATLAB Applications  
+- Mathematics for Engineering: Differential Equations, Linear Algebra, Multivariable Calculus
+
+---
+
+<a id="project-overview"></a>
+
+## ⭐ Project Overview
+
+| Project                                   | Summary                                                        | Link                    |
+|-------------------------------------------|----------------------------------------------------------------|-------------------------|
+| TA – RAD Lab                              | Mentoring first-year students in CAD, 3D printing, and Arduino | [View](#ta)             |
+| Fusion Joint Defect Detection (Mears)     | Python-based AI pipeline achieving 82% accuracy                | [View](#fusion-ai)      |
+| Hack3D Digital Manufacturing Cybersecurity| Securing CAD/STL files and detecting tampering                 | [View](#hack3d)         |
+| EchoLink Assistive Device                 | BLE-enabled communication device for non-verbal patients       | [View](#echolink)       |
+| Cloud Data Platform Analysis (Mears)      | Strategic study of Snowflake, Synapse, and BigQuery            | [View](#mears-cloud)    |
+| MES Research (Athena Technologies)        | Evaluating MES platforms for Industry 4.0 manufacturing        | [View](#athena)         |
 
 ---
 
@@ -46,17 +79,23 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ## 🚀 Highlighted Projects
 
+<a id="ta"></a>
+
 ### Engineering Undergraduate Teaching Assistant – New York University  
 *Aug 2025 – Present | Brooklyn, NY*  
 Serves in the Rapid Assembly and Design (RAD) environment, mentoring first-year engineering students through core prototyping and hardware principles. Responsibilities include guiding students in CAD modeling, 3D printing, soldering, Arduino programming, electronics assembly, and embedded system debugging. Collaborates with faculty to deliver engineering lab sessions, maintain prototyping equipment, and oversee safe operation of technical workstations. This role strengthens the technical foundations necessary for advanced engineering coursework and project development.
 
 ---
 
+<a id="fusion-ai"></a>
+
 ### AI-Based Fusion Joint Defect Detection – Mears Group LLC  
 *Software Engineering Intern | June 2025 – Aug 2025 | Houston, TX*  
 Contributed to a computer vision pipeline used to detect defects and leaks in natural gas fusion joints. Developed preprocessing and postprocessing workflows in Python to enhance consistency and reduce noise, supporting a model that achieved **82% accuracy** in pilot testing. Automated dataset cleaning, visualization, and quality-assurance tasks to streamline readiness for field deployment and improve the reliability of integrity assessments for pipeline infrastructure.
 
 ---
+
+<a id="hack3d"></a>
 
 ### Digital Manufacturing Cybersecurity – Hack3D VIP (New York University)  
 *Jan 2025 – Present | Brooklyn, NY*  
@@ -71,17 +110,23 @@ Portfolio: https://nyunews.com/?s=vaishnavi+girish
 
 ---
 
+<a id="echolink"></a>
+
 ### EchoLink – Assistive Communication Device for Non-Verbal Patients  
 *Jan 2025 – May 2025 | New York University*  
 Developed a Bluetooth-enabled embedded communication device designed for non-verbal patients. Engineered microcontroller logic, LCD interface, and BLE communication using Arduino. Designed and soldered custom circuitry integrating sensors, pushbuttons, display modules, and BLE components. Created CAD-modeled enclosure components to enhance ergonomics and usability. EchoLink demonstrates how embedded systems can improve accessibility and patient–caregiver communication through low-cost hardware solutions.
 
 ---
 
+<a id="mears-cloud"></a>
+
 ### Cloud Data Platform Analysis – Mears Group LLC  
 *Software Engineering Intern | June 2023 | Houston, TX*  
 Performed a strategic evaluation of Snowflake, Azure Synapse, and Google BigQuery for use in data-intensive pipeline integrity workflows. Applied frameworks such as SWOT, Porter’s Five Forces, Value Chain, and the BCG Matrix to assess scalability, security, computing performance, and long-term viability. Delivered insights that supported cloud modernization and data strategy decisions within the organization.
 
 ---
+
+<a id="athena"></a>
 
 ### Manufacturing Execution Systems Research – Athena Technologies  
 *Engineering Research Intern | Mar 2023 – Jun 2023 | Fremont, CA*  
@@ -124,6 +169,12 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 
 - **Email:** vaishnavi.girish@nyu.edu  
 - **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish  
+
+<p align="center">
+  <a href="mailto:vaishnavi.girish@nyu.edu">
+    <img src="https://img.shields.io/badge/Email_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+  </a>
+</p>
 
 ---
 
