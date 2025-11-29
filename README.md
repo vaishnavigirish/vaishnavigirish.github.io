@@ -10,7 +10,7 @@ Welcome! I am an Electrical Engineering student at NYU Tandon School of Engineer
 
 - **Embedded Systems:** Arduino, microcontrollers, C/C++, sensors, PWM
 - **Circuits & Electronics:** Circuit analysis, RC/RL/RLC, Thevenin/Norton, lab instrumentation
-- **Programming & Tools:** Python, MATLAB, Power BI, basic CAD and 3D printing
+- **Programming & Tools:** Python, MATLAB, Power BI, CAD and 3D printing
 - **Data & Cloud:** Snowflake, Azure Synapse, Google BigQuery (comparative analysis)
 - **Domains:** Cybersecurity for digital manufacturing, Industry 4.0, machine learning for engineering
 
