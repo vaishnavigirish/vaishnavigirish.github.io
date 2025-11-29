@@ -25,13 +25,13 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ## 🔧 Technical Skills
 
-- <span style="font-weight:600;">Embedded Systems</span>: Arduino, microcontrollers, sensors, PWM control  
-- <span style="font-weight:600;">Circuits & Electronics</span>: circuit analysis, transient response, RC/RL/RLC systems, instrumentation  
-- <span style="font-weight:600;">Machine Learning & Data</span>: Python, scikit-learn, basic computer vision preprocessing  
-- <span style="font-weight:600;">Cybersecurity & Manufacturing</span>: encryption, watermarking, anomaly detection, additive manufacturing integrity  
-- <span style="font-weight:600;">Cloud & Data Platforms</span>: Snowflake, Azure Synapse, Google BigQuery  
-- <span style="font-weight:600;">Prototyping & Fabrication</span>: soldering, CAD modeling, 3D printing, rapid prototyping  
-- <span style="font-weight:600;">Tools & Software</span>: MATLAB, Power BI, Git/GitHub, oscilloscopes, multimeters
+- ***Embedded Systems***: Arduino, microcontrollers, sensors, PWM control  
+- ***Circuits & Electronics***: circuit analysis, transient response, RC/RL/RLC systems, instrumentation  
+- ***Machine Learning & Data***: Python, scikit-learn, basic computer vision preprocessing  
+- ***Cybersecurity & Manufacturing***: encryption, watermarking, anomaly detection, additive manufacturing integrity  
+- ***Cloud & Data Platforms***: Snowflake, Azure Synapse, Google BigQuery  
+- ***Prototyping & Fabrication***: soldering, CAD modeling, 3D printing, rapid prototyping  
+- ***Tools & Software***: MATLAB, Power BI, Git/GitHub, oscilloscopes, multimeters
 
 ---
 
