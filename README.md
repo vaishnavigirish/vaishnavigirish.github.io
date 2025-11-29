@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="assets/images/VG.png" width="120">
+  <img src="assets/images/VG.png" width="120" alt="VG Engineering Logo">
 </p>
 
 # Vaishnavi Girish – Electrical Engineering Portfolio
 
-Electrical Engineering Portfolio
-# Vaishnavi Girish – Electrical Engineering Portfolio
+<a id="about"></a>
 
 Vaishnavi Girish is an Electrical Engineering student at New York University, with a minor in Finance (Aug 2024 – Expected May 2028), dedicated to developing secure, intelligent, and high-performance systems. Her work spans embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—built through research, technical teaching, and engineering internships.
 
@@ -14,6 +13,13 @@ Her engineering efforts focus on solutions at the intersection of hardware, soft
 Across all projects, Vaishnavi emphasizes precision, reliability, and real-world robustness. Her work reflects curiosity, technical depth, and a strong commitment to impactful problem-solving within environments that value innovation and engineering discipline.
 
 ---
+
+**Quick Navigation**  
+[About](#about) · [Skills](#skills) · [Coursework](#coursework) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
+
+---
+
+<a id="skills"></a>
 
 ## 🔧 Technical Skills
 
@@ -27,6 +33,8 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ---
 
+<a id="coursework"></a>
+
 ## 📘 Coursework
 
 - **Electrical Engineering Foundations:** Circuits and Systems, Electromagnetic Fields, Digital Logic  
@@ -35,6 +43,8 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 - **Mathematics for Engineering:** Differential Equations, Linear Algebra, Multivariable Calculus
 
 ---
+
+<a id="projects"></a>
 
 ## 🚀 Highlighted Projects
 
@@ -71,7 +81,7 @@ Developed a Bluetooth-enabled embedded communication device designed for non-ver
 
 ### Cloud Data Platform Analysis – Mears Group LLC  
 *Software Engineering Intern | June 2023 | Houston, TX*  
-Performed a strategic evaluation of Snowflake, Azure Synapse, and Google BigQuery for use in data-intensive pipeline integrity workflows. Applied frameworks such as SWOT, Porter’s Five Forces, Value Chain, and the BCG Matrix to assess scalability, security, computing performance, and long-term viability. Delivered insights that supported cloud modernization and data strategy decisions within the organization.
+Performed a strategic evaluation of Snowflake, Azure Synapse, and Google BigQuery for use in data-intensive pipeline integrity workflows. Applied frameworks such as SWOT, Porter’s Five Five Forces, Value Chain, and the BCG Matrix to assess scalability, security, computing performance, and long-term viability. Delivered insights that supported cloud modernization and data strategy decisions within the organization.
 
 ---
 
@@ -80,6 +90,8 @@ Performed a strategic evaluation of Snowflake, Azure Synapse, and Google BigQuer
 Conducted analysis of MES platforms for medical device manufacturing clients to determine Industry 4.0 alignment, workflow automation potential, compliance capabilities, and system robustness. Evaluated interoperability with ERP/PLC systems and recommended approaches for digital transformation, quality control, and process optimization within regulated environments.
 
 ---
+
+<a id="leadership"></a>
 
 ## 🏅 Leadership & Outreach
 
@@ -100,20 +112,28 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 
 ---
 
+<a id="resume"></a>
+
 ## 📄 Resume
 
 👉 [Download Resume](resume/Vaishnavi_Girish_Resume.pdf)
 
 ---
 
+<a id="contact"></a>
+
+## 📬 Contact
+
+- **Email:** vaishnavi.girish@nyu.edu  
+- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish  
+
+---
+
 <p align="center">
-  <strong>📫 Contact</strong><br>
-  Email: <a href="mailto:vaishnavi.girish@nyu.edu">vaishnavi.girish@nyu.edu</a><br>
-  LinkedIn: <a href="https://www.linkedin.com/in/vaishnavi-girish">linkedin.com/in/vaishnavi-girish</a><br>
-  Portfolio: <a href="https://vaishnavi-girish.github.io">Vaishnavi-Girish.github.io</a>
+  <img src="assets/images/VG.png" width="80" alt="VG Footer Logo">
 </p>
 
 <p align="center">
-  © 2025 Vaishnavi Girish • Electrical Engineering • New York University
+  © 2025 <strong>Vaishnavi Girish</strong> • Electrical Engineering • New York University<br>
+  <a href="#top">⬆️ Back to top</a>
 </p>
-
