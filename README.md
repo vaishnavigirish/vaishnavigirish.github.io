@@ -2,7 +2,7 @@
 Electrical Engineering Portfolio
 # Vaishnavi Girish – Electrical Engineering Portfolio
 
-I am an Electrical Engineering student at New York University, with a minor in Finance (Aug 2024 – Expected May 2028), and dedicated to building secure, intelligent, and high-performance systems. My work bridges embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—experience gained through research, technical teaching, and engineering internships.
+I am an Electrical Engineering student at New York University, with a minor in Finance (Aug 2024 – Expected May 2028), and dedicated to building secure, intelligent, and high-performance systems. My work bridges embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity; experience gained through research, technical teaching, and engineering internships.
 
 I develop solutions that operate at the intersection of hardware, software, and data: assistive devices powered by microcontrollers, AI-driven defect detection pipelines that strengthen energy infrastructure, and encrypted CAD workflows that protect the integrity of additive manufacturing. My finance background strengthens my ability to evaluate engineering decisions through the lens of scalability, risk, and long-term systems impact.
 
@@ -12,9 +12,9 @@ Across every project, I focus on engineering systems that are precise, reliable,
 
 ## 🔧 Technical Skills
 
-- **Embedded Systems:** Arduino, microcontrollers, C/C++, sensors, PWM control  
+- **Embedded Systems:** Arduino, microcontrollers, sensors, PWM control  
 - **Circuits & Electronics:** Circuit analysis, transient response, RC/RL/RLC systems, instrumentation  
-- **Machine Learning & Data:** Python, NumPy, SciPy, scikit-learn, computer vision preprocessing  
+- **Machine Learning & Data:** Python, scikit-learn, basic computer vision preprocessing  
 - **Cybersecurity & Manufacturing:** Encryption, watermarking, anomaly detection, additive manufacturing integrity  
 - **Cloud & Data Platforms:** Snowflake, Azure Synapse, Google BigQuery  
 - **Prototyping & Fabrication:** Soldering, CAD modeling, 3D printing, rapid prototyping  
@@ -51,7 +51,7 @@ Portfolio: https://nyunews.com/?s=vaishnavi+girish
 
 ### EchoLink – Assistive Communication Device for Non-Verbal Patients  
 *Jan 2025 – May 2025 | New York University*  
-EchoLink is a Bluetooth-enabled embedded system designed for non-verbal patients to communicate via a tactile interface. I engineered the microcontroller logic, LCD interface, and BLE communication using Arduino and C. I designed and soldered custom circuitry integrating sensors, pushbuttons, a display, and the BLE module. I also developed CAD-modeled enclosure components to support ergonomic use. EchoLink demonstrates how embedded hardware can improve accessibility and patient–caregiver communication through low-cost engineering.
+EchoLink is a Bluetooth-enabled embedded system designed for non-verbal patients to communicate via a tactile interface. I engineered the microcontroller logic, LCD interface, and BLE communication using Arduino. I designed and soldered custom circuitry integrating sensors, pushbuttons, a display, and the BLE module. I also developed CAD-modeled enclosure components to support ergonomic use. EchoLink demonstrates how embedded hardware can improve accessibility and patient–caregiver communication through low-cost engineering.
 
 ---
 
