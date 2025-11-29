@@ -17,7 +17,7 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 ---
 
 **Quick Navigation**  
-[About](#about) · [Skills](#skills) · [Skills Matrix](#skills-matrix) · [Coursework](#coursework) · [Project Overview](#project-overview) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
+[About](#about) · [Skills](#skills) · [Coursework](#coursework) · [Project Overview](#project-overview) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
 
 ---
 
@@ -32,20 +32,6 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 - Cloud & Data Platforms: Snowflake, Azure Synapse, Google BigQuery  
 - Prototyping & Fabrication: soldering, CAD modeling, 3D printing, rapid prototyping  
 - Tools & Software: MATLAB, Power BI, Git/GitHub, oscilloscopes, multimeters
-
----
-
-<a id="skills-matrix"></a>
-
-## 🔬 Skills Matrix
-
-| *category*                 | *skills*                                                                  |
-|----------------------------|---------------------------------------------------------------------------|
-| embedded systems           | Arduino, BLE, sensors, PWM control, microcontroller integration           |
-| hardware & instrumentation | circuit design, breadboarding, soldering, oscilloscopes, multimeters      |
-| software & data            | Python, scikit-learn, Power BI, Git/GitHub                                |
-| manufacturing & design     | CAD modeling, 3D printing workflows, additive manufacturing integrity      |
-| security & analytics       | encryption, watermarking, anomaly detection, FEM/MicroCT-based analysis   |
 
 ---
 
@@ -168,21 +154,4 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 ## 📬 Contact
 
 - **Email:** vaishnavi.girish@nyu.edu  
-- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish  
-
-<p align="center">
-  <a href="mailto:vaishnavi.girish@nyu.edu">
-    <img src="https://img.shields.io/badge/Email_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="assets/images/VG.png" width="80" alt="VG Footer Logo">
-</p>
-
-<p align="center">
-  © 2025 <strong>Vaishnavi Girish</strong> • Electrical Engineering • New York University<br>
-  <a href="#top">⬆️ Back to top</a>
-</p>
+- **LinkedIn:** https://www.linkedin.com/in/
