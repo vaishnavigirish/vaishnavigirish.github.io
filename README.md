@@ -101,9 +101,6 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 
 ---
 
-## 📬 Contact
----
-
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/50/737373/circuit.png" width="45" alt="circuit-icon"/><br>
 </p>
