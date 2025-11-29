@@ -4,6 +4,8 @@
 
 # Vaishnavi Girish – Electrical Engineering Portfolio
 
+<p align="center"><em>New York University • Major: Electrical Engineering • Finance Minor</em></p>
+
 <a id="about"></a>
 
 Vaishnavi Girish is an Electrical Engineering student at New York University, with a minor in Finance (Aug 2024 – Expected May 2028), dedicated to developing secure, intelligent, and high-performance systems. Her work spans embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—built through research, technical teaching, and engineering internships.
@@ -81,7 +83,7 @@ Developed a Bluetooth-enabled embedded communication device designed for non-ver
 
 ### Cloud Data Platform Analysis – Mears Group LLC  
 *Software Engineering Intern | June 2023 | Houston, TX*  
-Performed a strategic evaluation of Snowflake, Azure Synapse, and Google BigQuery for use in data-intensive pipeline integrity workflows. Applied frameworks such as SWOT, Porter’s Five Five Forces, Value Chain, and the BCG Matrix to assess scalability, security, computing performance, and long-term viability. Delivered insights that supported cloud modernization and data strategy decisions within the organization.
+Performed a strategic evaluation of Snowflake, Azure Synapse, and Google BigQuery for use in data-intensive pipeline integrity workflows. Applied frameworks such as SWOT, Porter’s Five Forces, Value Chain, and the BCG Matrix to assess scalability, security, computing performance, and long-term viability. Delivered insights that supported cloud modernization and data strategy decisions within the organization.
 
 ---
 
