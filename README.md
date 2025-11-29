@@ -4,11 +4,19 @@
 
 <a id="about"></a>
 
+## <p align="center">👋 About</p>
+
+<p align="center">
 Vaishnavi Girish is an Electrical Engineering student at New York University (Aug 2024 – Expected May 2028), dedicated to developing secure, intelligent, and high-performance systems. Her work spans embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—built through research, technical teaching, and engineering internships.
+</p>
 
+<p align="center">
 Her engineering efforts focus on solutions at the intersection of hardware, software, and data: assistive devices powered by microcontrollers, AI-driven defect detection pipelines that strengthen energy infrastructure, and encrypted CAD workflows that safeguard additive manufacturing processes. The finance background complements her engineering perspectives by adding insight into scalability, risk, and long-term system optimization.
+</p>
 
+<p align="center">
 Across all projects, Vaishnavi emphasizes precision, reliability, and real-world robustness. Her work reflects curiosity, technical depth, and a strong commitment to impactful problem-solving within environments that value innovation and engineering discipline.
+</p>
 
 ---
 
